@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Conferencia de Inteligencia Artificial Aplicada",
+    "tipo": "conferencia",
+    "fecha": "2026-09-20",
+    "ponente": "Dra. Ana Torres",
+    "cupo": 100
+  },
+  {
+    "id": 2,
+    "nombre": "Taller de Desarrollo Web con React",
+    "tipo": "taller",
+    "fecha": "2026-10-02",
+    "ponente": "Ing. Carlos Ruiz",
+    "cupo": 30
+  }
+]
