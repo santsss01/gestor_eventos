@@ -1,0 +1,2 @@
+- **Modalidad**: presencial, virtual o híbrida.
+- **Costo**: gratuito o de pago.
